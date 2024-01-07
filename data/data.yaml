@@ -1,0 +1,53 @@
+presentation:
+  - nom: Baudais
+    prenom: Corentin
+    accroche: Passionné par l'informatique et le développement web
+
+propos:
+  - accroche: Je suis motivé pour devenir un réel développeur web
+    presentation: Je m'appelle Corentin, j'ai 23 ans et je suis étudiant en BTS SIO à CaenSup
+
+programmation:
+  - nom : HTML
+    niveau: 90
+    description : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - nom : CSS
+    niveau : 70
+    description : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - nom : JS
+    niveau : 45
+    description : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - nom : PHP
+    niveau : 30
+    description : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - nom : Python
+    niveau : 45
+    description : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  
+experiences : 
+  - poste: Livreur
+    entreprise: Boulanger
+    dated: 10/07/2021
+    datef: 10/09/2021
+    lieu: Mondeville
+    tache: Livraison d'éléctro-ménager
+  - poste: Contrôleur qualité
+    entreprise: PSA
+    dated: 01/11/2021
+    datef: 01/05/2022
+    lieu: Mondeville
+    tache: Contrôler la qualité de pièces automobiles
+
+formations : 
+  - nom: Bac pro réparation des carosseries
+    etablissement: Jules Vernes
+    dated: 09/2016
+    datef: 07/2019
+    lieu: Mondeville
+    contenu: Apprendre la carosserie automobile
+  - nom: Développeur intégrateur de solution internet et intranet
+    etablissement: Scholarfab
+    dated: 10/2022
+    datef: 07/2023
+    lieu: Le Havre
+    contenu: Apprendre le développement web
